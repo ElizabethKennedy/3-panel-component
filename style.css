@@ -26,7 +26,12 @@ body {
 }
 
 
-
+h1{
+  font-family: 'Cream Cake';
+  font-size: 38px;
+  color: black;
+  place-content: center;
+}
 
 
 img {
