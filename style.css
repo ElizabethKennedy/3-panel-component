@@ -31,6 +31,7 @@ img {
 
 .container {
   width: 85%;
+  height: 85%;
   margin: 0 auto;
   display: grid;
   padding: 3rem 0;
